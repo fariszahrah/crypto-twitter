@@ -9,4 +9,6 @@ The anti-crypto cohort believes that the entire crypto market is a collection of
 So now I am attempting to see how these companies use their twitter accounts.
 
 -- Phase-0 uses a bag of words, tokenization, tfidf
+
+
 -- Phase-1 uses word2vec, currently this is still in development and will be pushed shortly
